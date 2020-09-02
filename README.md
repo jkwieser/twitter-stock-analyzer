@@ -18,23 +18,23 @@ Continuously get all tweets containing the word “Gates”
 Continuously get all tweets containing the word “Musk”
 Continuously get the average sentiment of the tweets and visualize in red (bad), green (good) or blue (neutral)
 
-Output:
+## Output:
 
 ![Image](https://raw.githubusercontent.com/jkwieser/twitter-stock-analyzer/master/docu/visualization.PNG)
 
 
-High Level Overview:
+## High Level Overview:
 
 ![Image](https://raw.githubusercontent.com/jkwieser/twitter-stock-analyzer/master/docu/architecture.PNG)
 
 
-Kafka Setup:
+## Kafka Setup:
 ![Image](https://raw.githubusercontent.com/jkwieser/twitter-stock-analyzer/master/docu/architecture2.PNG)
 
 
-Full technical documentation can be found here:
+### Full technical documentation can be found here:
 https://github.com/jkwieser/twitter-stock-analyzer/blob/master/documentation-full-redacted.pdf
 
-Python Virtual Environment with all used packages can be downloaded here:
+### Python Virtual Environment with all used packages can be downloaded here:
 https://drive.google.com/file/d/1N5pd-8CPBhaRHsEU4Ra0RWMR9XPaDzMh/view?usp=sharing
 
