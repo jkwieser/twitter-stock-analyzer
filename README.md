@@ -20,16 +20,16 @@ Continuously get the average sentiment of the tweets and visualize in red (bad),
 
 Output:
 
-![Image](https://github.com/joegog/twitter-stock-analyzer/blob/master/docu/visualization.PNG?raw=true)
+![Image](https://raw.githubusercontent.com/jkwieser/twitter-stock-analyzer/master/docu/visualization.PNG)
 
 
 High Level Overview:
 
-![Image](https://github.com/joegog/twitter-stock-analyzer/blob/master/docu/architecture.PNG?raw=true)
+![Image](https://raw.githubusercontent.com/jkwieser/twitter-stock-analyzer/master/docu/architecture.PNG)
 
 
 Kafka Setup:
-![Image](https://github.com/joegog/twitter-stock-analyzer/blob/master/docu/architecture2.PNG?raw=true)
+![Image](https://raw.githubusercontent.com/jkwieser/twitter-stock-analyzer/master/docu/architecture2.PNG)
 
 
 Full technical documentation can be found here:
