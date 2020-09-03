@@ -38,3 +38,5 @@ https://github.com/jkwieser/twitter-stock-analyzer/blob/master/documentation-ful
 ### Python Virtual Environment with all used packages can be downloaded here:
 https://drive.google.com/file/d/1N5pd-8CPBhaRHsEU4Ra0RWMR9XPaDzMh/view?usp=sharing
 
+### Credits
+https://github.com/KryptonEdelgas
