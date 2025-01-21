@@ -161,7 +161,15 @@ try:
             if str(msg.key(), 'utf-8').lower() == twitter_searchword_ms.lower():
                 myjson = json.loads(str(msg.value(), 'utf-8'))
                 list_tweets_ms.append(myjson['tweet']['text'])
-                count_tweets_ms +=1     
+                count_tweets_ms +=1  
+                
+            if count_tweets_tsla < 1:
+                if str(msg.key(), 'utf-8').lower() == twitter_searchword_tsla.lower():
+                    count_tweets_tsla +=1 
+                else:
+                    count_tweets_ms +=1
+                continue
+                
 
         if msg.topic() == 'stock':
 

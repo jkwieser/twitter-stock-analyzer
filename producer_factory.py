@@ -13,10 +13,10 @@ class ProducerFactory():
     TIMEOUT: int = 10    # in seconds
         
     TWITTER_AUTH: twitter_api.TwitterAuthentication = twitter_api.TwitterAuthentication(
-        '---', 
-        '---', 
-        '---', 
-        '---'
+        'Here insert a consumer_key', 
+        'Here insert a consumer_secret', 
+        'Here insert a access_token_key', 
+        'Here insert a access_token_secret'
     )
     
     # (Producer, Requestor, topic_name, topic_key)
